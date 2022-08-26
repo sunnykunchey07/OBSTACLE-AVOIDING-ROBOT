@@ -1,0 +1,3 @@
+Step 1: Assemble the circuit as shown in the schematic given below. You can use the battery pack for powering driver circuit which I have mentioned in the components section or you could try out some other battery pack, but keep it mind it should deliver between 7-12V and atleast 3500mAh. Also, use different battery/battery-packs for powering Arduino and the Motor-Driver module, but ensure they share a common ground. Battery is one of the most important thing in this project !
+Step 2: Compile the code given below in the Arduino-IDE and hit upload.
+Step 3: Now you have gone through all the hard work ! Turn on the toggle switch and watch the robot avoiding obstacles !
